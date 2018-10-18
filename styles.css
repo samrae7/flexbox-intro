@@ -1,0 +1,73 @@
+.child {
+    width: 200px;
+    height: 200px;
+}
+
+.child1 {
+    background-image: url("http://placekitten.com/g/200/200");
+}
+
+.child2 {
+    background-color: hotpink
+}
+
+.child3 {
+    background-image: url("http://placekitten.com/200/200");
+}
+
+.child4 {
+    background-color: skyblue;
+}
+
+/* DEFAULT */
+.parent {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+/* FLEX DIRECTION */
+/* .parent {
+    flex-direction: column
+} */
+
+
+/* JUSTIFY-CONTENT */
+/* .parent {
+    justify-content: center
+} */
+
+
+/* ALIGN-ITEMS */
+/* .parent {
+    align-items: center
+} */
+
+
+/* WRAP */
+/* .parent {
+    display: flex;
+    width: 600px;
+    flex-wrap: wrap;
+    align-content: start;
+    justify-content: flex-start;
+} */
+
+
+/* GROW */
+/* .child2 {
+    flex-grow: 3;
+}
+
+.child3 {
+    flex-grow: 2;
+} */
+
+
+/* SHRINK */
+/* .child1, .child3 {
+    flex-shrink: 0;
+}
+.child2, .child4 {
+    flex-shrink: 2;
+} */
