@@ -1,8 +1,9 @@
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 # Quick intro to Flexbox
 A very basic introduction to flexbox css.
 
 ## Setup
-You probably have python cli installed on your machine if so, from the project directory, run:
+If you have python cli installed on your machine (check by running `python --version` in terminal) run:
 
 `python -m SimpleHTTPServer`
 
